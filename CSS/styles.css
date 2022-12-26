@@ -31,7 +31,7 @@
   /* background-color:#d1eaa3; */
   /* background-color: #0BD8FD; */
   background-color: #64D5E9;
-  padding: 0 0 20px;
+  padding: 0 0 10px;
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
@@ -101,7 +101,10 @@ a:hover{
 .copyright{
   color:#EAF6F6;
   font-size: 0.8rem;
-  padding: 20px 0;
+  margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 .skill-row{
   width: 50%;
