@@ -129,7 +129,7 @@ a:hover{
 } */
 
 .intro{
-  width: 45%; /* gives 30% of the width of the parent middle container*/
+  width: 50%; /* gives 30% of the width of the parent middle container*/
   margin: auto; /* aligns the text to the center*/
   
   
